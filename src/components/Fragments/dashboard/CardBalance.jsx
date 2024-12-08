@@ -1,7 +1,6 @@
 import { Link } from "react-router-dom";
 import accounts from "../../../data/accounts";
 import Card from "../../Elements/Card";
-import Stepper from "../../Elements/Stepper";
 import { Icon } from "../../Elements/Icon";
 
 const CardBalance = () => {
